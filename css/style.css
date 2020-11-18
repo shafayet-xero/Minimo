@@ -1,0 +1,178 @@
+@font-face {
+    font-family: 'Playfair Display', serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Playfair Display', serif;
+}
+
+* {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER START */
+
+#header {
+    padding: 40px 0;
+}
+
+#header .logo {
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+}
+
+#header .menu ul li {
+    padding: 0 20px;
+}
+
+#header ul li a {
+    font-size: 14px;
+    color: #626262 !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 3px;
+    transition: 0.4s;
+}
+
+#header ul li a:hover {
+    background-color: #000000;
+    color: #ffffff !important;
+}
+
+/* HEADER END */
+
+
+
+/* BANNER START */
+
+/* EYMPTY SECTION */
+
+
+/* BANNER END */
+
+
+/* COMMENT START */
+#comment {
+    padding: 80px 0;
+}
+
+#comment h5 {
+    font-size: 15px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+#comment h2 {
+    font-size: 30px;
+    color: #626262;
+    padding-bottom: 10px;
+}
+
+#comment p {
+    font-size: 14px;
+    color: #626262;
+    line-height: 1.7;
+    padding-bottom: 10px;
+}
+
+/* COMMENT END */
+
+/* FESTIVAL START */
+#festival {
+    padding: 80px 0;
+}
+
+/* Single Item */
+#festival h5 {
+    font-size: 15px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    padding: 10px 0;
+}
+
+#festival h2 {
+    font-size: 30px;
+    color: #626262;
+    padding-bottom: 10px;
+}
+
+#festival p {
+    font-size: 14px;
+    color: #626262;
+    line-height: 1.7;
+    padding-bottom: 10px;
+}
+
+/* Single Item*/
+/* FESTIBAL END */
+
+
+/* SIGN UP START */
+
+#sign-up {
+    padding: 80px 0;
+    background-color: #f0f0f0;
+}
+
+#sign-up .sing h2 {
+    text-align: center;
+    font-size: 30px;
+    color: #333333;
+}
+
+#sign-up .form-control {
+    border: none;
+    border-bottom: 2px solid;
+    background-color: transparent;
+}
+
+#sign-up .input-group-text {
+    border: none;
+    border-bottom: 2px solid;
+    background-color: transparent;
+}
+
+/* SIGN UP END */
+
+/* BUTTON START */
+#button {
+    padding: 80px 0;
+}
+
+#button .btn-custom {
+    border: 1px solid;
+    padding: 10px 20px;
+    color: #333333;
+    font-size: 20px;
+    border-radius: 1px;
+    transition: 0.4s;
+}
+#button .btn-custom:hover{
+    background-color: #000000;
+    color: #ffffff !important;
+}
+
+/* BUTTON END */
+/* FOOTER START */
+#footer {
+    padding: 40px 0;
+    background-color: #f0f0f0;
+}
+
+#footer ul li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#footer ul li i {
+    color: #626262;
+}
+
+/* FOOTER END */

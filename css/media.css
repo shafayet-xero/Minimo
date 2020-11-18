@@ -1,0 +1,23 @@
+/* EXTRA SMALL DEVICE */
+@media (max-width:575.98px){
+
+}
+/* SMALL DEVICE */
+@media(min-width:576px) and  (max-width:776.98px){
+
+}
+
+/*MEDIUM DEVICE */
+@media(min-width:768px) and (max-width:991.98px){
+
+}
+
+/* LEARG DEVICE */
+@media(min-width:992px) and (max-width:1199.98px){
+
+}
+
+/* EXTRA LARGE DEVICE */
+@media(min-width:1200px){
+
+}
